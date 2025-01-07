@@ -1,5 +1,5 @@
 # ViNarrA  
-**ViNarrA** (*Vision Narration Assistant*) is an AI-powered application designed to analyze videos, generate detailed descriptions, and answer questions about their content. This project leverages cutting-edge advancements in computer vision, video processing, and natural language understanding.  
+**ViNarrA** (*Vision Narration Assistant*) is an AI-powered application designed to analyze videos and pictures, generate detailed descriptions, and answer questions about their content. This project leverages cutting-edge advancements in computer vision, video processing, and natural language understanding.  
 
 ---
 
